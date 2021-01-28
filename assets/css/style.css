@@ -39,6 +39,15 @@
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+
 .row-table {
     display: table;
 }
@@ -389,3 +398,5 @@ button[type="submit"] {
     max-width: 50%;
 }
 }
+
+div#map {min-height: 360px;}
